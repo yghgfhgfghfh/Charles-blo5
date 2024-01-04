@@ -1,5 +1,5 @@
 {
-    "name": "DM-Unblocker",
+    "name": "Charles-Unblocker",
     "version": "1.0.0",
     "repository": "https://github.com/dragon731012/DM-unbl0cker-3",
     "bugs": {
@@ -10,7 +10,7 @@
     "scripts": {
         "start": "node app.js"
     },
-    "author": "dragonmaster73101 and fog network",
+    "author": "Charles and S0d",
     "license": "MIT",
     "dependencies": {
         "acorn-hammerhead": "^0.5.0",
